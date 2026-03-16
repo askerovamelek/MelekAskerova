@@ -7,9 +7,13 @@
 
 ---
 
-<h2>About Me</h2>
+<h2>👩‍💻 About Me</h2>
 <p>
-I am a <b>Computer Science student</b> with a strong passion for Data Science and Machine Learning. I enjoy turning raw data into actionable insights and building predictive models using real-world datasets. I am constantly learning new technologies and improving my skills to solve challenging problems in the field of AI and Data Science.
+I am a <b>Computer Science student</b> with a strong passion for <b>Data Science</b> and <b>Machine Learning</b> 🤖. I enjoy turning raw data into actionable insights 📊, building predictive models 🧠, and visualizing results in a way that everyone can understand 🌟.  
+
+I have experience creating models for <b>regression</b> 📈, <b>classification</b> 🧬, and <b>prediction</b> 🦠. I also create interactive dashboards using <b>Power BI</b> 🌍 to help make data-driven decisions.  
+
+I am constantly learning new technologies 💻, improving my skills in <b>Python</b> 🐍, <b>SQL</b> 🗄️, <b>Machine Learning</b> 🤖, and <b>Data Visualization</b> 📊, aiming to become a professional <b>Machine Learning Engineer</b> 🚀.
 </p>
 
 ---
