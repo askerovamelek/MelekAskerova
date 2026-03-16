@@ -92,13 +92,3 @@ I am a <b>Computer Science student</b> with a strong passion for Data Science an
 
 ---
 
-<h2>GitHub Stats</h2>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=melekaskerova&show_icons=true&theme=radical" alt="Melek Asgerova GitHub Stats" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melekaskerova&layout=compact&theme=radical" alt="Melek Asgerova Top Languages" />
-</p>
-</p>
