@@ -1,33 +1,41 @@
 <h1 align="center">Hi 👋, I'm Melek Asgerova</h1>
 <h3 align="center">A passionate Data Scientist | Computer Science Student from Azerbaijan</h3>
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=melekaskerova&label=Profile%20views&color=0e75b6&style=flat" alt="melekaskerova" />
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=melekaskerova" alt="melekaskerova" /></a>
-</p>
+---
 
-- 🌱 I’m currently learning **Data Science and Machine Learning**  
-- 💻 I enjoy working on **real datasets and building predictive models**  
-- 📫 How to reach me: **melekaskerova07@gmail.com**
+<h2>About Me</h2>
+<p>
+I am a <b>Computer Science student</b> with a strong passion for Data Science and Machine Learning. I enjoy turning raw data into actionable insights and building predictive models using real-world datasets. I am constantly learning new technologies and improving my skills to solve challenging problems in the field of AI and Data Science.
+</p>
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/melekasgarova" target="blank">
+<h2>Connect with Me</h2>
+<p>
+  <a href="https://linkedin.com/in/melekasgarova" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://www.leetcode.com/melekaskerovaaa" target="blank">
+  <a href="https://www.leetcode.com/melekaskerovaaa" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  </a>
+  <a href="mailto:melekaskerova07@gmail.com">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="30" width="40" />
   </a>
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+<h2>Education</h2>
+- 🎓 **Bachelor in Computer Science**  
+- Currently studying and focusing on **Data Science, Machine Learning, and AI**  
+
+---
+
+<h2>Languages & Tools</h2>
 <p align="left">
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
@@ -39,25 +47,39 @@
   <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a>
   <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a>
   <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+  <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo.svg" alt="Power BI" width="40" height="40"/></a>
 </p>
 
 ---
 
-<h3 align="left">Projects:</h3>
-<p align="left">
-  <b>Turbo AZ Data Analysis & Prediction</b> – Real dataset project where I performed exploratory data analysis (EDA), built predictive models, and implemented machine learning algorithms. <br>
-  <b>Technologies:</b> Python, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, PyTorch
+<h2>Projects</h2>
+
+<p>
+  <b>Turbo AZ Data Analysis & Prediction</b> – This project used a real dataset from Turbo AZ. I performed comprehensive <b>Exploratory Data Analysis (EDA)</b>, built and trained predictive models, and evaluated their performance. The project showcases data cleaning, feature engineering, and model optimization skills. <br>
+  <b>Technologies:</b> Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, PyTorch, Power BI
 </p>
 
 ---
 
-<h3 align="left">My Goals:</h3>
-- Become a skilled **Machine Learning Engineer**  
-- Work on **real-world Data Science projects**  
-- Continuously improve my **data analysis and modeling skills**  
+<h2>Skills</h2>
+- Data Analysis & Visualization: Python, Pandas, NumPy, Matplotlib, Seaborn, Power BI  
+- Machine Learning & AI: Scikit-learn, TensorFlow, PyTorch  
+- Databases: MySQL, PostgreSQL, SQL Server  
+- Programming Languages: Python, Java  
 
 ---
 
-<p align="left">
+<h2>Goals</h2>
+- Become a professional <b>Machine Learning Engineer</b>  
+- Work on <b>real-world datasets</b> and <b>AI projects</b>  
+- Continuously improve <b>data analysis, modeling, and machine learning</b> skills  
+
+---
+
+<h2>GitHub Stats</h2>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=melekaskerova&show_icons=true&theme=radical" alt="melekaskerova" />
+</p>
+<p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=melekaskerova&show_icons=true&locale=en&layout=compact" alt="melekaskerova" />
 </p>
