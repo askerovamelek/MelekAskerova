@@ -55,8 +55,24 @@ I am a <b>Computer Science student</b> with a strong passion for Data Science an
 <h2>Projects</h2>
 
 <p>
-  <b>Turbo AZ Data Analysis & Prediction</b> – This project used a real dataset from Turbo AZ. I performed comprehensive <b>Exploratory Data Analysis (EDA)</b>, built and trained predictive models, and evaluated their performance. The project showcases data cleaning, feature engineering, and model optimization skills. <br>
-  <b>Technologies:</b> Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, PyTorch, Power BI
+<b>1. Job Market Dashboard (Power BI)</b> – I created an interactive <b>Power BI dashboard</b> to analyze the most popular jobs, salaries, and trends across different countries. The dashboard provides insights into global employment patterns, helping users identify high-demand roles and salary benchmarks by region. I performed comprehensive data cleaning, aggregation, and visual analytics to make the insights easily interpretable for decision-making. <br>
+<b>Key Features:</b> Interactive visuals, country-wise salary comparisons, top job trends, filters by industry and location. <br>
+<b>Technologies:</b> Power BI, Python (data cleaning & preprocessing), Excel
+</p>
+
+<p>
+<b>2. Turbo AZ Dataset Analysis & Prediction</b> – Worked on a <b>real dataset from Turbo AZ</b> to explore and analyze car listings. I performed full <b>Exploratory Data Analysis (EDA)</b> including visualizations to understand key patterns in pricing, brand popularity, and vehicle features. For predictive modeling, I built a <b>Regression model</b> to estimate car prices and implemented a <b>Gradient Boosting model</b> for price prediction. This project showcases skills in feature engineering, model selection, evaluation, and visualization. <br>
+<b>Technologies:</b> Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Gradient Boosting, Regression Analysis
+</p>
+
+<p>
+<b>3. Breast Cancer Classification Model</b> – Developed a <b>Classification model</b> to predict whether a tumor is benign or malignant. I used machine learning algorithms such as <b>SVM (Support Vector Machine)</b> for accurate predictions. The project includes data preprocessing, feature scaling, model training, and evaluation with metrics like accuracy, precision, and recall. This model demonstrates my understanding of classification techniques and handling medical datasets for predictive analytics. <br>
+<b>Technologies:</b> Python, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, SVM, Classification Models
+</p>
+
+<p>
+<b>4. COVID-19 Prediction Model</b> – Built a predictive model to forecast COVID-19 cases using historical data. I implemented regression techniques to predict case trends and analyzed the effects of various factors on the spread of the virus. The project involved data cleaning, feature selection, time-series analysis, and visualization of trends to understand patterns in infection rates. <br>
+<b>Technologies:</b> Python, Pandas, NumPy, Matplotlib, Seaborn, Regression Analysis, Time-Series Forecasting
 </p>
 
 ---
